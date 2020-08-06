@@ -269,7 +269,7 @@ print key
 ```
 
 This outputs
-{%highlight console%}
+```
 5AquUR%mH4tE=Yn9
 ```
 
